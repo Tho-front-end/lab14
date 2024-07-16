@@ -1,0 +1,31 @@
+.bg-img1 {
+  background-color: #000;
+  background: url(image/1.jpg) no-repeat;
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background: url(image/2.jpg) no-repeat;
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background: url(image/3.jpg) no-repeat;
+  background-size: cover;
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+.footer {
+  margin: 125px 60px 0 60px;
+  /* margin-top: 125px;
+  margin-left: 60px;
+  margin-right: 60px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
